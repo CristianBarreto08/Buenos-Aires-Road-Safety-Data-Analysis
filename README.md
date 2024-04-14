@@ -51,10 +51,10 @@ El proyecto sigue los siguientes pasos metodológicos:
   ![Dashboard](Assets/Kpi_Semestres.png)
 
     - Reducción del 7% en la cantidad de accidentes mortales de motociclistas en el último año en CABA, respecto al año anterior. Este KPI se calcula como el porcentaje de disminución en el número absoluto de accidentes fatales en los que estuvieron involucradas víctimas que viajaban en moto.
-   ![Dashboard](Assets/Kpi_Semestres.png)
+   ![Dashboard](Assets/Kpi_motos.png)
 - 
     - Reducción del 8% en la cantidad de accidentes mortales por comuna en el último semestre en CABA, respecto al año anterior. Este KPI se calcula como el porcentaje de disminución en el número absoluto de accidentes fatales en los que estuvieron involucradas víctimas segmentadas en comunas.
-   ![Dashboard](Assets/Kpi_Comunas.png)
+   ![Dashboard](Assets/Kpi_comunas.png)
 
 **- Dashboard del Análisis de los datos usando Tableau:** con el objetivo de mostrar los KPI's y metricas, integrando el uso de filtros y visualizacion del mapa para reconocer tendencias.
 
