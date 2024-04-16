@@ -48,13 +48,10 @@ El proyecto sigue los siguientes pasos metodológicos:
 **- Definicion de KPI's:**
 
     - Reducción del 10% en la tasa de Muertes en siniestros en los últimos seis meses en CABA, en comparación con el semestre anterior. La tasa se calcula como el número de homicidios en siniestros viales por cada 100,000 habitantes.
-  ![Dashboard](Assets/Kpi_Semestres.png)
 
     - Reducción del 7% en la cantidad de accidentes mortales de motociclistas en el último año en CABA, respecto al año anterior. Este KPI se calcula como el porcentaje de disminución en el número absoluto de accidentes fatales en los que estuvieron involucradas víctimas que viajaban en moto.
-   ![Dashboard](Assets/Kpi_motos.png)
-- 
-    - Reducción del 8% en la cantidad de accidentes mortales por comuna en el último semestre en CABA, respecto al año anterior. Este KPI se calcula como el porcentaje de disminución en el número absoluto de accidentes fatales en los que estuvieron involucradas víctimas segmentadas en comunas.
-   ![Dashboard](Assets/Kpi_comunas.png)
+
+    - Reducción del 8% en la cantidad de accidentes mortales por comuna en el último año en CABA, respecto al año anterior. Este KPI se calcula como el porcentaje de disminución en el número absoluto de accidentes fatales en los que estuvieron involucradas víctimas segmentadas en comunas.
 
 **- Dashboard del Análisis de los datos usando Tableau:** con el objetivo de mostrar los KPI's y metricas, integrando el uso de filtros y visualizacion del mapa para reconocer tendencias.
 
