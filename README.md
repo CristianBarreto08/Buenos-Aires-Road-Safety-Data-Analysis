@@ -1,4 +1,4 @@
-![Banner](Assets/Img1.jpg)
+![intro](Assets/intro.png)
 
 # Proyecto de Análisis de Datos: Reducción de Siniestros Viales en CABA, Argentina.
 
