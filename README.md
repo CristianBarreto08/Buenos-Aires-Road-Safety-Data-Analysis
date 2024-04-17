@@ -1,4 +1,4 @@
-![intro](Assets/intro.png)
+![intro](Assets/intro1.jpg)
 
 # Proyecto de Análisis de Datos: Reducción de Siniestros Viales en CABA, Argentina.
 
@@ -12,12 +12,9 @@
 - Nuestro objetivo es identificar patrones y áreas de intervención para reducir las muertes por accidentes de tránsito.
 - Queremos contribuir directamente a la seguridad vial en Buenos Aires mediante la implementación de políticas efectivas.
 
-
-
 ## Autor
 
 - **Cristian F. Barreto** - *Junior Data Scientist* [@CristianBarreto08](https://github.com/CristianBarreto08) ; cfbn13@hotmail.com
-
 
 ## Tecnologías y Herramientas Utilizadas
 
@@ -30,8 +27,6 @@
 - Tableau
 - Microsoft Excel
 - ChatGPT4 
-
-
 
 ## Metodología Aplicada
 
@@ -54,8 +49,6 @@ El proyecto sigue los siguientes pasos metodológicos:
     - Reducción del 8% en la cantidad de accidentes mortales por comuna en el último año en CABA, respecto al año anterior. Este KPI se calcula como el porcentaje de disminución en el número absoluto de accidentes fatales en los que estuvieron involucradas víctimas segmentadas en comunas.
 
 **- Dashboard del Análisis de los datos usando Tableau:** con el objetivo de mostrar los KPI's y metricas, integrando el uso de filtros y visualizacion del mapa para reconocer tendencias.
-
-
 
 ## Demo
 
@@ -96,8 +89,6 @@ El proyecto sigue los siguientes pasos metodológicos:
    - Las intersecciones con alta actividad vehicular, como el cruce de la Avenida Leandro N. Alem y la Avenida Córdoba, muestran una alta densidad de incidentes leves.
 
 Estos insights proporcionan una visión general de los patrones y tendencias identificados en el análisis de los datos de siniestros viales en la Ciudad de Buenos Aires.
-
-
 
 ## Conclusiones Y Posibles Soluciones
 
